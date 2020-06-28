@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Generated HTML
-*.html
+fuzz*.html
